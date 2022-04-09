@@ -357,9 +357,8 @@ hr
 .message
   position: absolute
   top: 20%
-  rigth 50%
   height: 400px
-  width: 40%
+  width: 100%
   background-color: white 
 .add-user
   margin-top: 2em
